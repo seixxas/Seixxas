@@ -4,7 +4,7 @@
 
 - 📕 Atualmente faço cursos focado na parte de Front-End
 
-- 🧠 Bom conhecimento em **JavaScript, HTMl, CSS, React, TypeScript, Node.js, Express.js, MongoDB**
+- 🧠 Bom conhecimento em **JavaScript, HTML, CSS, React, TypeScript, Node.js, Express.js, MongoDB**
 
 <br><br>
 
