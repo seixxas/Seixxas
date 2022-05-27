@@ -31,3 +31,9 @@ src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typ
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seixxas&layout=compact&theme=dark" alt="Seixxas">  
   
 </p>
+
+<br><br>
+
+## &nbsp;Social Links
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-seixas-133819201/) 
