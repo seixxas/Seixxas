@@ -1,4 +1,4 @@
-<h1> Opa, eae! Eu sou Guilherme Seixas </h1>
+<h1> Opa, eae! Eu sou Guilherme Seixas 🖐 </h1>
 
 - 🔥 Desenvolvedor JavaScript jr
 
