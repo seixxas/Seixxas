@@ -1,10 +1,10 @@
 <h1> Opa, eae! Eu sou Guilherme Seixas 🖐 </h1>
 
-- 🔥 Desenvolvedor JavaScript jr
+- 🔥 Desenvolvedor full-stack em andamento...
 
 - 📕 Atualmente faço cursos focado na parte de Front-End
 
-- 🧠 Bom conhecimento em **JavaScript, HTML, CSS, React, TypeScript, Node.js, Express.js, MongoDB**
+- 🧠 Bom conhecimento em **JavaScript, HTML, CSS, React, TypeScript, Node.js, Express.js, MongoDB, Python**
 
 <br><br>
 
