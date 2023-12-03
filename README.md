@@ -1,10 +1,6 @@
 <h1> Opa, eae! Eu sou Guilherme Seixas 🖐 </h1>
 
-- 🔥 Desenvolvedor full-stack em andamento...
-
-- 📕 Atualmente estudando Java, php
-
-- 🧠 Bom conhecimento em **JavaScript, HTML, CSS, React, TypeScript, Node.js, Express.js, MongoDB, Python**
+Trampo com Front-end e manjo de nextJS
 
 <br><br>
 
